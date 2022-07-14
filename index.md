@@ -11,15 +11,14 @@ This will serve as a brief description of your project. Limit this to three sent
   
 My first milestone was setting up the base for my project. Firstly, I set up my raspberry pi and connected it to my monitor. Then, I set up the raspberrypi to raspi in order to ping my IP address. After, I got SSH, VNC, and Visual studio for my code and connected that to my SSH. This step was neccessary because it allowes me to make or chanage any code I need fof my project. Lastly, I installed Magic Mirror, which is a Node JS Application. Magic Mirror assisterd in generating the base I need for my project. With it, I can chan ge or add codes to make my smart mirror suitable for me.
 
-[![First Milestone vid}]  <iframe width="650" height="365" src="https://www.youtube.com/embed/HZR-vvzeD9Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="650" height="365" src="https://www.youtube.com/embed/HZR-vvzeD9Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Seconf Milestone -:)
 
 
 
-[![Second Milestone vid}]
 
 # Third Milsteone =)
 
 
-[![third Milestone vid}]
+
