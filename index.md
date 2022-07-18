@@ -7,7 +7,7 @@ This will serve as a brief description of your project. Limit this to three sent
 
 ![Headstone Image](https://raw.githubusercontent.com/BlueStampEng/BSE_Template_Portfolio/4655d8c4b2f1d0fa5912511d0b39542520b9f88e/branding/BlueStamp-Engineering-Logo-White.png)
  
- # Third Milestone 
+ # Third Milestone  
 In summary, i donwlaoded rasperrypi onto my computer. The, I downloaded Magic Mirroir, VNC, and SSHin order to get the base of my project. After, I customize my project to make it more visual appealing. I added compliments, added the current weather, the weather forecast, alert effects, and colors to the the text and westher icons.
 
 <iframe width="650"height="365" src="https://www.youtube.com/embed/mhA53ow2ehU" title="Eli A Milestone 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
