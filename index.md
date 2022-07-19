@@ -5,7 +5,7 @@ This will serve as a brief description of your project. Limit this to three sent
 |:--:|:--:|:--:|:--:|
 |Elijah Alexander |Benjamin Banneker Acadmey | Civil Engineering | Incoming Senior
 
-![Headstone Image](https://raw.githubusercontent.com/BlueStampEng/BSE_Template_Portfolio/4655d8c4b2f1d0fa5912511d0b39542520b9f88e/branding/BlueStamp-Engineering-Logo-White.png)
+![Headstone Image](https://mail.google.com/mail/u/0?ui=2&ik=6f327a6675&attid=0.1.1&permmsgid=msg-f:1738802175765388328&th=1821775dc52c1c28&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ-2m5OuqbYYFihkCwNWJ5xNNpTzCj7h5MdcBDFqUrv7GOMoA6m-mjs_wMU1esbjkajDGBqyZno0e1x1AULVDVYX0qq1gjkRc5TUxujjtrbwwWYIZ7NAhwLBl7M&disp=emb)
  
  
 
