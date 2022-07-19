@@ -10,7 +10,7 @@ This will serve as a brief description of your project. Limit this to three sent
  
 
 # Third Milestone
-In summary, i donwlaoded rasperrypi onto my computer. Then,  I connected my raspberry pi to my monitor. After, I created a SSH file so I can download Magioc Mirror, VNC. Then, I installed Magic Mirror onto my coding appplication. Once the base was completed, I made a few customizations to my project such ass adding compliments, adding the weather forecast, and changing the colors for the calendar, weather icons, nd some of the text.
+In summary, i donwlaoded rasperrypi onto my computer. Then,  I connected my raspberry pi to my monitor. After, I created a SSH file so I can download Magioc Mirror, VNC. Then, I installed Magic Mirror onto my coding appplication. Once the base was completed, I made a few customizations to my project such ass adding compliments, adding the weather forecast, and changing the colors for the calendar, weather icons, and some of the text.
 
 <iframe width="650" height="365" src="https://www.youtube.com/embed/mhA53ow2ehU" title="Eli A Milestone 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
