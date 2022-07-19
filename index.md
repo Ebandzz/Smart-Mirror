@@ -9,15 +9,14 @@ This will serve as a brief description of your project. Limit this to three sent
  
  
 
- 
- # Third Milestone  
-In summary, i donwlaoded rasperrypi onto my computer. The, I downloaded Magic Mirroir, VNC, and SSHin order to get the base of my project. After, I customize my project to make it more visual appealing. I added compliments, added the current weather, the weather forecast, alert effects, and colors to the the text and westher icons.
+# Third Milestone
+In summary, i donwlaoded rasperrypi onto my computer. Then,  I connected my raspberry pi to my monitor. After, I created a SSH file so I can download Magioc Mirror, VNC. Then, I installed Magic Mirror onto my coding appplication. Once the base was completed, I made a few customizations to my project such ass adding compliments, adding the weather forecast, and changing the colors for the calendar, weather icons, nd some of the text.
 
 <iframe width="650" height="365" src="https://www.youtube.com/embed/mhA53ow2ehU" title="Eli A Milestone 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
  
 # Second Milestone 
-My second Milestone was customizing my Magic Mirror. First, I added effects for my alerts. Then, I decided to chanhge the color for my calendaar. Then, I decided to add compliments to my project. The compliments I added were based on the time of the day and the weather. For instance, when it's morning, my mirror will grret me with a good morning message. Additonally, when it's raining, my mirror will message be to be safe during rainy weather. I added the weather forescast in order for my weather compliments to work. When adding the weather, I added my location and changed the weather form celsius to fahrenheit. Also, I added colors for weather icons and changed the color to a light color purple in the main css.file
+My second Milestone was customizing Magic Mirror. First, I added effects for my alerts. Then, I decided to chanhge the color for my calendar. After, I  added compliments to my project. The compliments I added were based on specific dates, time, and weather. For instance, when it's morning, my mirror will greet me with a good morning message. Additonally, when it's raining, my mirror will message be to be safe during rainy weather. I added the weather forescast in order for my weather compliments to work. When adding the weather, I added my location and changed the weather form celsius to fahrenheit. Also, I added colors for weather icons and changed the color to a light color purple in the main css.file
 
 <iframe width="650" height="365" src="https://www.youtube.com/embed/MqkOFSvBFJ4" title="Eli A Milestone 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
