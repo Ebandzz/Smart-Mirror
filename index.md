@@ -5,9 +5,9 @@ This will serve as a brief description of your project. Limit this to three sent
 |:--:|:--:|:--:|:--:|
 |Elijah Alexander |Benjamin Banneker Acadmey | Civil Engineering | Incoming Senior
 
-![Headstone Image](https://mail.google.com/mail/u/0?ui=2&ik=6f327a6675&attid=0.1.1&permmsgid=msg-f:1738802175765388328&th=1821775dc52c1c28&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ-2m5OuqbYYFihkCwNWJ5xNNpTzCj7h5MdcBDFqUrv7GOMoA6m-mjs_wMU1esbjkajDGBqyZno0e1x1AULVDVYX0qq1gjkRc5TUxujjtrbwwWYIZ7NAhwLBl7M&disp=emb)
+![Headstone Image](https://drive.google.com/file/d/1xcQxBB-VqVkj0Qot8NfTpUyG0IUBmJTm/view?usp=sharing)
  
- 
+
 
 # Third Milestone
 In summary, i donwlaoded rasperrypi onto my computer. Then,  I connected my raspberry pi to my monitor. After, I created a SSH file so I can download Magioc Mirror, VNC. Then, I installed Magic Mirror onto my coding appplication. Once the base was completed, I made a few customizations to my project such ass adding compliments, adding the weather forecast, and changing the colors for the calendar, weather icons, and some of the text.
