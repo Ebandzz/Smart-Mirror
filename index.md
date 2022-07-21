@@ -1,7 +1,7 @@
 ![Headstone Image](https://raw.githubusercontent.com/BlueStampEng/BSE_Template_Portfolio/de8633f62b5da2234992a0178a6a72fd6df7e7e1/branding/BlueStamp-Logo.svg)
 
 # Eli's Smart Mirror
-A mirror that utilizes a monitor to display compliments,the weather, and the time.
+A mirror that utilizes a monitor to display compliments,the weather, calendar, and the time.
 
 | **Engineer** | **School** | **Career** | **Grade** |
 |:--:|:--:|:--:|:--:|
@@ -29,6 +29,70 @@ My first milestone was setting up the base for my project. Firstly, I set up my 
 
   <iframe width="650" height="365" src="https://www.youtube.com/embed/HZR-vvzeD9Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# 
+# Preview of the Formatting
+
+Some of the weather complimnets:
 
 
+					showers: ["Not bad"],
+					thunderstorm: ["AHHHH RUN"],
+					 snow: ["snow in NY?"],
+					showers: ["Not bad"]
+					fog: ["Don't be lacking"],
+					rain: [
+						"Stay dry!"
+					],
+     night_clear: [
+						"Enjoy the night",
+					],
+					night_cloudy: [
+					" It's peaceful out"
+					],
+					night_showers: ["be chill tonight"],
+					night_rain: ["rainy nights are the best"],
+     
+     
+ The Weather Configurations:
+ 
+ 
+ 
+ module: "weather",
+			position: "top_right",
+			config: {
+				weatherProvider: "openweathermap",
+				type: "current",
+				location: "New York",
+				locationID: "5110302", //ID from http://bulk.openweathermap.org/sample/city.list.json.gz; unzip the gz file and find your city
+				apiKey: "0d3f272a11a8f28806cc6914217d3798",
+				units: "imperial",
+				roundTemp: true,
+				degreeLabel: false,
+				showPeriod: false,
+				showPeriodUpper: false,
+				roundTemp: true,
+				timeFormat: 12,
+    
+    
+   Color for weather icons:
+   
+   
+   
+.wi-day-sunny {
+  color: #ffff00;
+}
+
+.wi-day-cloudy {
+  color:burlywood;
+}
+
+.wi-cloudy{
+  color: #ffffff;
+}
+.wi-rain{
+  color: #0000ff;
+
+}
+
+.wi-day-rain{
+  color:aquamarine;
+}
