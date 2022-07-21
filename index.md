@@ -28,7 +28,7 @@ My first milestone was setting up the base for my project. First, I set up my ra
 
   <iframe width="650" height="365" src="https://www.youtube.com/embed/HZR-vvzeD9Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
- Preview of weather Compliments
+  Preview of weather Compliments
 
 					showers: ["Not bad"],
 					thunderstorm: ["AHHHH RUN"],
@@ -48,7 +48,7 @@ My first milestone was setting up the base for my project. First, I set up my ra
 					night_rain: ["rainy nights are the best"],
 					
      
-  Weather Configuration 
+   Weather Configuration 
  	                
 			
 			config: {
@@ -66,10 +66,8 @@ My first milestone was setting up the base for my project. First, I set up my ra
 				timeFormat: 12,
 				
 				
- Setup for Weather icons
-        	.wi-day-sunny {
-              color: #ffff00;
-                      }
+  Setup for Weather icons
+        	
 
               .wi-day-cloudy {
               color:burlywood;
