@@ -29,10 +29,7 @@ My first milestone was setting up the base for my project. Firstly, I set up my 
 
   <iframe width="650" height="365" src="https://www.youtube.com/embed/HZR-vvzeD9Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# Preview of the Formatting
-
-Some of the weather complimnets:
-
+# Preview of weather Cocpliments
 
 					showers: ["Not bad"],
 					thunderstorm: ["AHHHH RUN"],
@@ -51,13 +48,10 @@ Some of the weather complimnets:
 					night_showers: ["be chill tonight"],
 					night_rain: ["rainy nights are the best"],
      
-     
- The Weather Configurations:
- 
- 
- 
- module: "weather",
+ # Weather Configurations
+ 	module: "weather",
 			position: "top_right",
+			
 			config: {
 				weatherProvider: "openweathermap",
 				type: "current",
@@ -71,12 +65,8 @@ Some of the weather complimnets:
 				showPeriodUpper: false,
 				roundTemp: true,
 				timeFormat: 12,
-    
-    
-   Color for weather icons:
-   
-   
-   
+				
+# Colors for Weather icons
 .wi-day-sunny {
   color: #ffff00;
 }
@@ -96,3 +86,4 @@ Some of the weather complimnets:
 .wi-day-rain{
   color:aquamarine;
 }
+ 
