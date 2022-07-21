@@ -48,7 +48,7 @@ My first milestone was setting up the base for my project. First, I set up my ra
 					night_rain: ["rainy nights are the best"],
 					
      
- # Weather Configurations
+ # Weather Configuration 
  	                
 			
 			config: {
