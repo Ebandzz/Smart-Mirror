@@ -68,24 +68,33 @@ My first milestone was setting up the base for my project. Firstly, I set up my 
 				timeFormat: 12,
 				
 				
-# Colors for Weather icons
-.wi-day-sunny {
-  color: #ffff00;
-}
+# Setup for Weather icons
+        	.wi-day-sunny {
+              color: #ffff00;
+                      }
 
-.wi-day-cloudy {
-  color:burlywood;
-}
+              .wi-day-cloudy {
+              color:burlywood;
+                      }
 
-.wi-cloudy{
-  color: #ffffff;
-}
-.wi-rain{
-  color: #0000ff;
+                .wi-cloudy{
+             color: #ffffff;
+                           }
+                .wi-rain{
+               color: #0000ff;
 
-}
+                           }
 
-.wi-day-rain{
-  color:aquamarine;
-}
- 
+                 .wi-day-rain{
+              color:aquamarine;
+                             }
+              .wi-day-showers{
+            color:cornflowerblue;
+                               }
+          .wi-day-sunny-overcast{
+             color: gold;
+                               }
+
+                .wi-night-clear{
+                   color: grey;
+                               }
