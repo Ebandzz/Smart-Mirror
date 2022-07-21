@@ -1,10 +1,13 @@
+![Headstone Image](https://raw.githubusercontent.com/BlueStampEng/BSE_Template_Portfolio/de8633f62b5da2234992a0178a6a72fd6df7e7e1/branding/BlueStamp-Logo.svg)
+
 # Eli's Smart Mirror
+A mirror that utilizes a monitor to display compliments,the weather, and the time.
 
 | **Engineer** | **School** | **Career** | **Grade** |
 |:--:|:--:|:--:|:--:|
 |Elijah Alexander |Benjamin Banneker Acadmey | Civil Engineering | Incoming Senior
 
-![Headstone Image](https://raw.githubusercontent.com/BlueStampEng/BSE_Template_Portfolio/de8633f62b5da2234992a0178a6a72fd6df7e7e1/branding/BlueStamp-Logo.svg)
+![Headstone Image](https://mail.google.com/mail/u/0?ui=2&ik=6f327a6675&attid=0.1&permmsgid=msg-f:1738890330942308204&th=1821c78aff2d7f6c&view=att&disp=safe)
 
  
 
@@ -22,10 +25,10 @@ My second Milestone was customizing Magic Mirror. First, I added effects for my 
 
 # First Milestone 😁
   
-My first milestone was setting up the base for my project. Firstly, I set up my raspberry pi and connected it to my monitor. Then, I set up the raspberrypi to raspi in order to ping my IP address. After, I got SSH, VNC, and Visual studio for my code and connected that to my SSH. This step was neccessary because it allowes me to make or chanage any code I need fof my project. Lastly, I installed Magic Mirror, which is a Node JS Application. Magic Mirror assisterd in generating the base I need for my project. With it, I can chan ge or add codes to make my smart mirror suitable for me.
+My first milestone was setting up the base for my project. Firstly, I set up my raspberry pi and connected it to my monitor. Then, I set up the raspberrypi to raspi in order to ping my IP address. After, I got SSH, VNC, and Visual studio for my code and connected that to my SSH. This step was neccessary because it allowes me to make or chanage any code I need fof my project. Lastly, I installed Magic Mirror, which is a Node JS Application. Magic Mirror assisted in generating the base I need for my project. With it, I can chan ge or add codes to make my smart mirror suitable for me.
 
   <iframe width="650" height="365" src="https://www.youtube.com/embed/HZR-vvzeD9Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
+# 
 
 
