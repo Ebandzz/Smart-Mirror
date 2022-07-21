@@ -29,7 +29,7 @@ My first milestone was setting up the base for my project. Firstly, I set up my 
 
   <iframe width="650" height="365" src="https://www.youtube.com/embed/HZR-vvzeD9Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# Preview of weather Cocpliments
+# Preview of weather Compliments
 
 					showers: ["Not bad"],
 					thunderstorm: ["AHHHH RUN"],
@@ -39,7 +39,7 @@ My first milestone was setting up the base for my project. Firstly, I set up my 
 					rain: [
 						"Stay dry!"
 					],
-     night_clear: [
+                                         night_clear: [
 						"Enjoy the night",
 					],
 					night_cloudy: [
@@ -47,6 +47,7 @@ My first milestone was setting up the base for my project. Firstly, I set up my 
 					],
 					night_showers: ["be chill tonight"],
 					night_rain: ["rainy nights are the best"],
+					
      
  # Weather Configurations
  	module: "weather",
@@ -65,6 +66,7 @@ My first milestone was setting up the base for my project. Firstly, I set up my 
 				showPeriodUpper: false,
 				roundTemp: true,
 				timeFormat: 12,
+				
 				
 # Colors for Weather icons
 .wi-day-sunny {
