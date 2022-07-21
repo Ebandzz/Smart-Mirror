@@ -5,7 +5,7 @@ A mirror that utilizes a monitor to display compliments, the weather, calendar, 
 
 | **Engineer** | **School** | **Career** | **Grade** |
 |:--:|:--:|:--:|:--:|
-|Elijah Alexander |Benjamin Banneker Acadmey | Civil Engineering | Incoming Senior
+|Elijah A |Benjamin Banneker Acadmey | Civil Engineering | Incoming Senior
 
 ![Headstone Image](https://mail.google.com/mail/u/0?ui=2&ik=6f327a6675&attid=0.1&permmsgid=msg-f:1738890330942308204&th=1821c78aff2d7f6c&view=att&disp=safe)
 
