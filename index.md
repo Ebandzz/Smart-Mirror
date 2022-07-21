@@ -1,7 +1,7 @@
 ![Headstone Image](https://raw.githubusercontent.com/BlueStampEng/BSE_Template_Portfolio/de8633f62b5da2234992a0178a6a72fd6df7e7e1/branding/BlueStamp-Logo.svg)
 
 # Eli's Smart Mirror
-A mirror that utilizes a monitor to display compliments,the weather, calendar, and the time.
+A mirror that utilizes a monitor to display compliments, the weather, calendar, and the time.
 
 | **Engineer** | **School** | **Career** | **Grade** |
 |:--:|:--:|:--:|:--:|
@@ -13,19 +13,18 @@ A mirror that utilizes a monitor to display compliments,the weather, calendar, a
 
 
 # Third Milestone 😃
-In summary, I downlaoded rasperrypi onto my computer. Then,  I connected my raspberry pi to my monitor. After, I created a SSH file so I can download Magic Mirror, VNC. Then, I installed Magic Mirror onto my VS appplication. Once the base was completed, I made a few customizations to my project such ass adding compliments, adding the weather forecast, and changing the colors for the calendar, weather icons, and some of the text.
+In summary, I downlaoded rasperrypi onto my computer. Then, I connected my raspberry pi to my monitor. After, I created a SSH file so I can download Magic Mirror. Then, I installed Magic Mirror onto my VS appplication. Once the base was completed, I made a few customizations to my project such ass adding compliments, adding the weather forecast, and changing the colors for the calendar, weather icons, and some of the text.
 
 <iframe width="650" height="365" src="https://www.youtube.com/embed/mhA53ow2ehU" title="Eli A Milestone 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
  
 # Second Milestone 😄
-My second Milestone was customizing Magic Mirror. First, I added effects for my alerts. Then, I decided to chanhge the color for my calendar. After, I  added compliments to my project. The compliments I added were based on specific dates, time, and weather. For instance, when it's morning, my mirror will greet me with a good morning message. Additonally, when it's raining, my mirror will message be to be safe during rainy weather. I added the weather forescast in order for my weather compliments to work. When adding the weather, I added my location and changed the weather form celsius to fahrenheit. Also, I added colors for weather icons and changed the color to a light color purple in the main css.file
+My second Milestone was customizing Magic Mirror. First, I added effects for my alerts. Then, I decided to change the color for my calendar. After, I  added compliments to my project. The compliments I added were based on the date, time, and weather. For instance, when it's morning, my mirror will greet me with a good morning message. Additonally, when it's raining, my mirror will message be to be safe during rainy weather. I added the weather forescast in order for my weather compliments to work. When adding the weather, I added my location and changed the weather from celsius to fahrenheit. Also, I added colors for weather icons and changed the color to a light color purple in the main css.file
 
 <iframe width="650" height="365" src="https://www.youtube.com/embed/MqkOFSvBFJ4" title="Eli A Milestone 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # First Milestone 😁
-  
-My first milestone was setting up the base for my project. Firstly, I set up my raspberry pi and connected it to my monitor. Then, I set up the raspberrypi to raspi in order to ping my IP address. After, I got SSH, VNC, and Visual studio for my code and connected that to my SSH. This step was neccessary because it allowes me to make or chanage any code I need fof my project. Lastly, I installed Magic Mirror, which is a Node JS Application. Magic Mirror assisted in generating the base I need for my project. With it, I can chan ge or add codes to make my smart mirror suitable for me.
+My first milestone was setting up the base for my project. First, I set up my raspberry pi and connected it to my monitor. Then, I pinged my IP address. After, I got a coding apllication called Visual Studio to create a SSH file for my project. Lastly, I installed Magic Mirror, which is a Node JS Application. Magic Mirror assisted in generating the base I need for my project. With it, I can chan ge or add codes to make my smart mirror suitable for me.
 
   <iframe width="650" height="365" src="https://www.youtube.com/embed/HZR-vvzeD9Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -50,8 +49,7 @@ My first milestone was setting up the base for my project. Firstly, I set up my 
 					
      
  # Weather Configurations
- 	module: "weather",
-			position: "top_right",
+ 	                
 			
 			config: {
 				weatherProvider: "openweathermap",
