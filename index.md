@@ -10,7 +10,7 @@ A mirror that utilizes a monitor to display compliments, the weather, calendar, 
 |Elijah A |Benjamin Banneker Acadmey | Civil Engineering | Incoming Senior
 
 
-![Headstone Image](https://github.com/Ebandzz/Smart-Mirror/blob/076d7d3e3ac6da0d9b97f3fd32e8950f65ec924f/Face.jpg.jpg)
+![Headstone Image](Face.jpg.jpg)
 
  
 
