@@ -3,11 +3,15 @@
 # Eli's Smart Mirror
 A mirror that utilizes a monitor to display compliments, the weather, calendar, and the time.
 
+![Headstone Image](https://github.com/Ebandzz/Smart-Mirror/blob/dfb73978e4207027f9f0e45c256ff9ea2c3bd870/MMss.png)
+
 | **Engineer** | **School** | **Career** | **Grade** |
 |:--:|:--:|:--:|:--:|
 |Elijah A |Benjamin Banneker Acadmey | Civil Engineering | Incoming Senior
 
-![Headstone Image](https://github.com/Ebandzz/Smart-Mirror/blob/dfb73978e4207027f9f0e45c256ff9ea2c3bd870/MMss.png)
+
+![Headstone Image](https://github.com/Ebandzz/Smart-Mirror/blob/504f5e7de8ad106a87400ad3b34c993e0ce2be13/IMG-1574%20(1).jpg
+)
 
  
 
