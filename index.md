@@ -28,7 +28,8 @@ My first milestone was setting up the base for my project. First, I set up my ra
 
   <iframe width="650" height="365" src="https://www.youtube.com/embed/HZR-vvzeD9Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-  Preview of weather Compliments
+ # Preview of setup
+ Weather compliments
 
 					showers: ["Not bad"],
 					thunderstorm: ["AHHHH RUN"],
