@@ -7,7 +7,7 @@ A mirror that utilizes a monitor to display compliments, the weather, calendar, 
 |:--:|:--:|:--:|:--:|
 |Elijah A |Benjamin Banneker Acadmey | Civil Engineering | Incoming Senior
 
-![Headstone Image](https://github.com/Ebandzz/Smart-Mirror/blob/d57fd3f1dacea9256e610579e57948bc402579e5/Magic%20Mirror%20screenshot.png)
+![Headstone Image](https://github.com/Ebandzz/Smart-Mirror/blob/dfb73978e4207027f9f0e45c256ff9ea2c3bd870/MMss.png)
 
  
 
